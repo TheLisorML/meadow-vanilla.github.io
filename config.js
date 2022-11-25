@@ -4,8 +4,8 @@
  */
 
 var server_name = "Meadow";
-var server_ip = "57.128.136.143";
-var server_port = 31043;
+var server_ip = "de2.qloxhost.net";
+var server_port = 25601;
 var ip_copied = "IP copied!";
 
 var server_ip_be = "*";
