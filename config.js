@@ -8,8 +8,8 @@ var server_ip = "de2.qloxhost.net";
 var server_port = 25601;
 var ip_copied = "IP copied!";
 
-var server_ip_be = "*";
-var server_port_be = *;
+var server_ip_be = "1";
+var server_port_be = 1;
 var ip_copied_be = "IP copied!";
 
 var firefly_count = 20;
