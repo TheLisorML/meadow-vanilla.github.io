@@ -4,13 +4,9 @@
  */
 
 var server_name = "Meadow";
-var server_ip = "157.254.169.242";
-var server_port = 30407;
+var server_ip = "de1.qloxhost.net";
+var server_port = 25654;
 var ip_copied = "IP copied!";
-
-var server_ip_be = "1";
-var server_port_be = 1;
-var ip_copied_be = "IP copied!";
 
 var firefly_count = 20;
 
